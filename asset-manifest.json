@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/gshs_lcg/static/js/main.ed1546c1.js",
+    "main.js": "/gshs_lcg/static/js/main.0c1afbc7.js",
     "index.html": "/gshs_lcg/index.html",
-    "main.ed1546c1.js.map": "/gshs_lcg/static/js/main.ed1546c1.js.map"
+    "main.0c1afbc7.js.map": "/gshs_lcg/static/js/main.0c1afbc7.js.map"
   },
   "entrypoints": [
-    "static/js/main.ed1546c1.js"
+    "static/js/main.0c1afbc7.js"
   ]
 }
